@@ -1,4 +1,5 @@
-simulator
+graph generator
 =========
 
-simulator
+start with
+```graphgenerator.py```
